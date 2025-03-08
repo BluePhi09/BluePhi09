@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=BluePhi09&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=BluePhi09&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)-->
 
 <!--
 **BluePhi09/BluePhi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
